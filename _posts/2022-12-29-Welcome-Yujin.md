@@ -2,7 +2,7 @@
 title: "Welcome Yujin!"
 date: 2022-12-29T10:30:30-04:00
 categories:
-  - blog
+  - Blog
 tags:
   - Blog
   - Update
