@@ -6,7 +6,7 @@ tags:
   - Post Formats
   - quote
 ---
-
-> Only one thing is impossible for God: To find any sense in any copyright law on the planet.
+I didn't like the quote they put in here so I put a different one
+> Our greatest glory is not in never failing, but in rising up every time we fail..
   
-> <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
+> <cite><a href="https://parade.com/1079155/stephanieosmanski/ralph-waldo-emerson-quotes/">Ralph Waldo Emerson</a></cite>
