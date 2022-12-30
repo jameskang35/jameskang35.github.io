@@ -9,6 +9,6 @@ tags:
   - Sample
 ---
 
-This post is a sample
+From J: Looks like this is just a sample post, I just put a quote from HDT below
 
 "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
