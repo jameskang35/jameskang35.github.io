@@ -73,7 +73,7 @@ author:
       url: "https://github.com/jameskang35"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/yujinatdawn/"
 
 footer:
   links:
@@ -85,7 +85,7 @@ footer:
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/yujinatdawn/"
 
 defaults:
   # _posts
