@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Yujin Kim"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "An amazing woman with inspiring ideals and thoughts."
+  bio    : "An amazing woman with beautiful and inspiring thoughts."
   links:
     - label: "Website Sample"
       icon: "fas fa-fw fa-link"
